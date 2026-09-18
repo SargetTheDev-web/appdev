@@ -188,15 +188,15 @@
 
     <h2>User System</h2>
 
-    <a href="api/index.php">
+    <a href="index.php">
         Dashboard
     </a>
 
-    <a href="api/users.php">
+    <a href="users.php">
         Users
     </a>
 
-    <a href="api/user_create.php" class="active">
+    <a href="user_create.php" class="active">
         Create User
     </a>
 

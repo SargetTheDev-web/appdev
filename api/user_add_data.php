@@ -74,7 +74,7 @@
         echo "
         <script>
             alert('New user has been created successfully!');
-            window.location.href = 'users.php';
+            window.location.href = 'api/users.php';
         </script>
         ";
 
