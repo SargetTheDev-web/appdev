@@ -1,5 +1,5 @@
 <?php
-include 'initialize.php';
+include __DIR__ . '/../initialize.php';
 
 if (!isset($_GET['id'])) {
     header('Location: users.php');

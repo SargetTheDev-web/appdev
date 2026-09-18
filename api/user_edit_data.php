@@ -1,6 +1,6 @@
 <?php
 
-include 'initialize.php';
+include __DIR__ . '/../initialize.php';
 
 $id = $_POST['id'];
 $firstname = $_POST['firstname'];
