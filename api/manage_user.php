@@ -216,15 +216,15 @@
 
     <h2>User System</h2>
 
-    <a href="index.php" class="active">
+    <a href="api/index.php" class="active">
         Dashboard
     </a>
 
-    <a href="users.php">
+    <a href="api/users.php">
         Users
     </a>
 
-    <a href="user_create.php">
+    <a href="api/user_create.php">
         Create User
     </a>
 
