@@ -232,15 +232,15 @@
 
     <h2>User System</h2>
 
-    <a href="api/index.php">
+    <a href="index.php">
         Dashboard
     </a>
 
-    <a href="api/users.php" class="active">
+    <a href="users.php" class="active">
         Users
     </a>
 
-    <a href="api/user_create.php">
+    <a href="user_create.php">
         Create User
     </a>
 
