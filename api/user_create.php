@@ -196,7 +196,7 @@
         Users
     </a>
 
-    <a href="api/user_create.php" class="active">
+    <a href="user_create.php" class="active">
         Create User
     </a>
 
