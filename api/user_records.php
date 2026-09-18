@@ -14,7 +14,7 @@
         }
     ?>
     <br />
-    <a href="user_add.php">Add User</a>
+    <a href="api/user_add.php">Add User</a>
 </div>
 </body>
 </html>

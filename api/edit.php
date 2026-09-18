@@ -2,7 +2,7 @@
 include __DIR__ . '/../initialize.php';
 
 if (!isset($_GET['id'])) {
-    header('Location: users.php');
+    header('Location: api/users.php');
     exit();
 }
 
