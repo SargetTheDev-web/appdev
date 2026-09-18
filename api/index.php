@@ -1,4 +1,4 @@
-<?php include 'initialize.php'; ?>
+<?php include __DIR__ . '/../initialize.php'; ?>
 
 <!DOCTYPE html>
 <html>
